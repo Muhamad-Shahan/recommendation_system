@@ -106,4 +106,4 @@ If you want to run this project on your own machine:
 
 If you found this project interesting, feel free to connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/muhammad-shahan-640325256/) [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/Muhammad-Shahan)
+[![LinkedIn](https://www.linkedin.com/in/m-shahan/) [![GitHub](https://github.com/Muhamad-Shahan/)
